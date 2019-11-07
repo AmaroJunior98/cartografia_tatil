@@ -1,0 +1,7 @@
+{
+    "port": "/dev/ttyUSB1",
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328old",
+    "sketch": "maquete_vulcao_inteligente.ino",
+    "programmer": "Atmel STK500 development board"
+}
